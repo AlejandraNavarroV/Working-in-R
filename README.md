@@ -1,2 +1,5 @@
-##Creando subtitles##
+# Creando subtitles
 practicando
+
+# Artistas
+Palito
