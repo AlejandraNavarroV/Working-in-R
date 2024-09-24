@@ -1,6 +1,3 @@
-# Creando subtitles
-practicando
-# Peliculas
-1. intensamente
-2. harry potter
+#Working in R
+In this repository, I share some codes and markdowns previously worked in R
 
